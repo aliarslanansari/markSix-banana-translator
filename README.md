@@ -13,4 +13,4 @@ It is developed using HTML, CSS, and JavaScript, [live demo ](https://minions-la
 - shows the response of the api.
 
 #### Screenshot
-![screenshot](snapshot.png)
+![screenshot](snapshot.PNG)
